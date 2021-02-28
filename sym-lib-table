@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "eva-8m")(type "KiCad")(uri "${KIPRJMOD}/lib/eva-8m.kicad_sym")(options "")(descr ""))
+  (lib (name "sx1303imltrt")(type "KiCad")(uri "${KIPRJMOD}/lib/sx1303imltrt.kicad_sym")(options "")(descr ""))
+  (lib (name "TPSM82821SILR")(type "Legacy")(uri "${KIPRJMOD}/lib/TPSM82821SILR.lib")(options "")(descr ""))
+)
