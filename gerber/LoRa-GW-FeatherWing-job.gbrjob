@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "(5.99.0-6542-g16b0689841)"
     },
-    "CreationDate": "2021-01-03T15:15:32-08:00"
+    "CreationDate": "2021-03-01T15:30:54-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "SX1303",
-      "GUID": "53583133-3033-42e6-9b69-6361645f7063",
+      "Name": "LoRa-GW-FeatherWing",
+      "GUID": "4c6f5261-2d47-4572-9d46-656174686572",
       "Revision": "rev?"
     },
     "Size": {
@@ -43,57 +43,57 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "SX1303-F_Cu.gbr",
+      "Path": "LoRa-GW-FeatherWing-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SX1303-In1_Cu.gbr",
+      "Path": "LoRa-GW-FeatherWing-In1_Cu.g2",
       "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SX1303-In2_Cu.gbr",
+      "Path": "LoRa-GW-FeatherWing-In2_Cu.g3",
       "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SX1303-B_Cu.gbr",
+      "Path": "LoRa-GW-FeatherWing-B_Cu.gbl",
       "FileFunction": "Copper,L4,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SX1303-F_Paste.gbr",
+      "Path": "LoRa-GW-FeatherWing-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SX1303-B_Paste.gbr",
+      "Path": "LoRa-GW-FeatherWing-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SX1303-F_Silkscreen.gbr",
+      "Path": "LoRa-GW-FeatherWing-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SX1303-B_Silkscreen.gbr",
+      "Path": "LoRa-GW-FeatherWing-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "SX1303-F_Mask.gbr",
+      "Path": "LoRa-GW-FeatherWing-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "SX1303-B_Mask.gbr",
+      "Path": "LoRa-GW-FeatherWing-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "SX1303-Edge_Cuts.gbr",
+      "Path": "LoRa-GW-FeatherWing-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

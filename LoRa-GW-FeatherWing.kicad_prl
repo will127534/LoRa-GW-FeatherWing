@@ -21,7 +21,7 @@
       "otherItems": true,
       "pads": true,
       "text": true,
-      "tracks": false,
+      "tracks": true,
       "vias": true,
       "zones": true
     },
@@ -60,7 +60,7 @@
       37,
       38
     ],
-    "visible_layers": "800103c_ffffffff"
+    "visible_layers": "800103d_ffffffff"
   },
   "meta": {
     "filename": "LoRa-GW-FeatherWing.kicad_prl",

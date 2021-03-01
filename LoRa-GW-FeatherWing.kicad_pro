@@ -345,7 +345,9 @@
     "meta": {
       "version": 0
     },
-    "net_colors": null
+    "net_colors": {
+      "GPS_RX": "rgb(48, 255, 52)"
+    }
   },
   "pcbnew": {
     "last_paths": {
@@ -388,7 +390,7 @@
   },
   "sheets": [
     [
-      "88f79686-f092-4f80-a08f-8f4e8b7172f1",
+      "2e4058bf-8de2-4a15-9be2-cfb51d12375a",
       ""
     ]
   ],
