@@ -4,10 +4,12 @@
 This is a LoRa Gateway board designed for FeatherWing ecosystem, based on Semtech SX1303 Digital Baseband Chip and Ublox EVA-7M GPS module. Board schematic is largely based on the SX1303 reference design, and this board is designed for 915Mhz operation.
 ![](https://i.imgur.com/zjJWZrJ.jpg)
 
-**This Design is still in development process, please use with caution**
+**This Design is still in development process, please use with caution**  
 Currenly I tested receiver function with Rapsberry Pi, but I have some issue with it transmit package to my RPI GW, though using SDR I can see the package sending out, not sure if it is a SW or HW issue. 
 
-**And currently the MCU software is in development process**
+**GPS TX and RX are flipped in the current design**
+
+**And currently the MCU software is in development process**  
 ~~Help~~
 
 ## FeatherWing Connection usage
