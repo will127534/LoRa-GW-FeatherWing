@@ -24,3 +24,6 @@ I sourced most parts from Mouser, here is the parts list:
 https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=11549c8008
 
 Note: SMA connector is not included, because it is related to the board thickness your are using, I'm using 1mm 4 layer pcb, and I can't find the connector on Mouser.
+
+
+CC BY-SA 4.0
