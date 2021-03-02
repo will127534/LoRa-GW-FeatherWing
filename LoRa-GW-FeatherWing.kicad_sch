@@ -8,6 +8,7 @@
     (title "SX1303 LoRa GW FeatherWing")
     (date "12/20/2020")
     (rev "v1")
+    (comment 1 "Licensed under CERN-OHL-S v2")
   )
 
   (lib_symbols
