@@ -26,5 +26,5 @@ fp-info-cache
 *.csv
 
 *kicad_sch$
-/LoRa-GW-FeatherWing-backups
+/LoRa-GW-FeatherWing-backups/
 
