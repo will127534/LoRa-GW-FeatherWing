@@ -5,10 +5,9 @@ This is a LoRa Gateway board designed for FeatherWing ecosystem, based on Semtec
 ![](https://i.imgur.com/zjJWZrJ.jpg)
 
 **This Design is still in development process, please use with caution**  
-Currenly I tested receiver function with Rapsberry Pi, but I have some issue with it transmit package to my RPI GW, though using SDR I can see the package sending out, not sure if it is a SW or HW issue. 
 
 **And currently the MCU software is in development process**  
-~~Help~~
+You can find it here https://github.com/will127534/SX1302_Arduino_Library
 
 ## FeatherWing Connection usage
 SX1303 uses the SPI bus an two GPIO (CS and Reset on D5 and D6) on the FeatherWing to communicate with host MCU, and GPS module uses the UART pins and a GPIO for pulse-per-second output on A5.
