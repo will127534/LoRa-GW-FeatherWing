@@ -6,11 +6,12 @@ This is a LoRa Gateway board designed for FeatherWing ecosystem, based on Semtec
 
 **This Design is still in development process, please use with caution**  
 
-**And currently the MCU software is in development process**  
+**MCU software is also in development process**  
 You can find it here https://github.com/will127534/SX1302_Arduino_Library
 
 ## FeatherWing Connection usage
-SX1303 uses the SPI bus an two GPIO (CS and Reset on D5 and D6) on the FeatherWing to communicate with host MCU, and GPS module uses the UART pins and a GPIO for pulse-per-second output on A5.
+SX1303 uses the SPI bus and two GPIO (CS and Reset on D5 and D6) on the FeatherWing to communicate with host MCU  
+GPS module uses the UART pins and a GPIO for pulse-per-second output on A5.  
 
 ## Design Tool
 KiCad v5.99 is used to design the board, and JLCPCB to manufactured the board.
